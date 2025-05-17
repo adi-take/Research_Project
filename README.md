@@ -1,4 +1,4 @@
-# Adaptive_Dynamic_Traffic_Signal_Control_For_Indian_Vehicles_Project
+# Adaptive_Dynamic_Traffic_Signal_Control_For_Indian_Vehicles Project
 🚦 Intelligent Indian Vehicle Detection & Signal Time Estimation System
 
 This project leverages deep learning and spatial logic to detect Indian vehicles from live traffic feeds and estimate optimal traffic signal timings based on vehicle type and lane occupation. The system is designed to support smart traffic management solutions tailored to Indian roads.
